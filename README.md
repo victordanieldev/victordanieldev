@@ -113,6 +113,15 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 
 <li> 💻 SQL , MYSQL</li>
 
+<img 
+    align="left"
+    alt="MYSQL"
+    title="MYSQL"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+     <br clear="both">
+
   ## 📂 Projetos
 
   <p>Este perfil reúne meus projetos acadêmicos, exercícios e projetos pessoais desenvolvidos durante minha formação. Através deles, busco colocar meus conhecimentos em prática e acompanhar minha evolução na área de desenvolvimento de software.
