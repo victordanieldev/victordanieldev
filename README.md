@@ -120,8 +120,9 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
     width="30"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <br clear="both">
      
-     <br clear="both">
+     
 
   ## 📂 Projetos
 
