@@ -111,7 +111,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
    
 ## Banco de dados
 
-💻 SQL , MYSQL
+<li> SQL , MYSQL </li>
 
 <img 
     align="left"
