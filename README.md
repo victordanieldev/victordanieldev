@@ -111,7 +111,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
    
 ## Banco de dados
 
-<li> 💻 SQL , MYSQL</li>
+💻 SQL , MYSQL
 
 <img 
     align="left"
@@ -120,6 +120,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
     width="30"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+     
      <br clear="both">
 
   ## 📂 Projetos
