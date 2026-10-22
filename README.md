@@ -1,16 +1,170 @@
-## Hi there 👋
+# Victor Daniel Jesus de Sousa
 
-<!--
-**victordanieldev/victordanieldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Engenharia de Software**
 
-Here are some ideas to get you started:
+Me chamo Victor Daniel, tenho 19 anos, sou estudante de Engenharia de Software no **Centro Universitário UDF Brasília**, estou no 2 semestre. Estou em busca de um estágio para ganhar experiência na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+<li> 🎓 Engenharia de Software — UDF | Brasília</li>
+<li> 📚 2º semestre</li>
+<li> 🐍 Conhecimentos em Python , HTML , CSS , SQL , MYSQL </li>
+<li> 💻 Estudando C  E JS</li>
+<li> 🎨 Conhecimentos em Figma e miro</li>
+<li> 🤖 Conhecimentos em Engenharia de Prompts</li>
+
+## Conhecimentos
+
+<p> 💻 Programação </p>
+
+<img 
+    align="left"
+    alt="JS"
+    title="JS"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+
+  <img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+
+  <img 
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+
+   <img 
+    align="left"
+    alt="C"
+    title="C"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/color/96/c-programming.png" />
+    <br clear="both">
+
+
+## Áreas que pretendo seguir  
+
+<Li>Banco de dados </Li>
+<Li>Engenheiro de software</Li>
+<Li>Back-end</Li>
+    
+
+
+
+
+<h3>Desenvolvimento Web</h3>
+
+Gosto de desenvolver sites, até o momento tenho só tenho uma landing page postada aqui no GitHub 
+<a href="https://github.com/vitinmuitobom-design/evadecoeventos">evadecoeventos</a>.
+Quero melhorar para desenvolver sites maiores, sites de vendas etc.
+</p>
+
+
+<p align="left">
+  <img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+   <br clear="both">
+
+   
+## Banco de dados
+
+<li> 💻 SQL , MYSQL</li>
+
+  ## 📂 Projetos
+
+  <p>Este perfil reúne meus projetos acadêmicos, exercícios e projetos pessoais desenvolvidos durante minha formação. Através deles, busco colocar meus conhecimentos em prática e acompanhar minha evolução na área de desenvolvimento de software.
+
+</p>
+
+  <h3>📚 Projetos Acadêmicos</h3>
+
+🔗 [Acessar repositório acadêmico](https://github.com/vitinmuitobom-design/academico)
+
+<h3> Projetos pessoais ate o momento</h3>
+
+<p> 🔗 <a href="https://github.com/vitinmuitobom-design/evadecoeventos">evadecoeventos</a></p>
+
+## Objetivos
+
+<li> 📚 Fortalecer meus fundamentos de programação</li>
+<li> 💻 Desenvolver projetos próprios</li>
+<li> 🚀 Construir um portfólio sólido durante a graduação</li>
+
+## 🎓 Formação
+
+**Engenharia de Software**  
+**UDF — Centro Universitário do Distrito Federal**
+
+<li>📍 Brasília, DF  </li>
+<li>📅 Início: 2026  📅 FIM: 2029  </li>
+<li>📚 2º semestre  </li>
+
+
+## Contato
+
+<p align="left">
+    <a href = "https://github.com/vitinmuitobom-design ">
+  <img 
+    align="left"
+    alt="GITHUB"
+    title="GITHUB"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+  />
+    </a>
+  <p align="left">
+      <a href = "https://www.linkedin.com/in/victor-daniel-04195742a?utm_source=share_via&utm_content=profile&utm_medium=member_android ">
+  <img 
+    align="left"
+    alt="LINKEDIN"
+    title="LINKEDIN"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+  />
+      </a>
+  <br clear="both">
+
+  
+
+
+
+
+
+
+
+
+ 
+    
+    
+
+          
+              
+
+    
+
+          
+    
+      
+    
+
