@@ -79,6 +79,22 @@ Gosto de desenvolver sites, até o momento tenho só tenho uma landing page post
 <a href="https://github.com/vitinmuitobom-design/evadecoeventos">evadecoeventos</a>.
 Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 </p>
+<img 
+    align="left"
+    alt="JS"
+    title="JS"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img 
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    
 
 
 <p align="left">
