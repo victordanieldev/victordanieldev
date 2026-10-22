@@ -15,7 +15,6 @@ Me chamo Victor Daniel, tenho 19 anos, sou estudante de Engenharia de Software n
 
 ## Conhecimentos
 
-<p> 💻 Programação </p>
 
 <img 
     align="left"
