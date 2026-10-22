@@ -51,7 +51,7 @@ Me chamo Victor Daniel, tenho 19 anos, sou estudante de Engenharia de Software n
     title="MYSQL"
     width="30"
     style="padding-right: 10px;"
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg)" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 
    <img 
