@@ -94,14 +94,16 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
     width="30"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    
-    <img 
+
+<img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="BOOSTRAP"
+    title="BOOSTRAP"
     width="30"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    
+
     
 
 
