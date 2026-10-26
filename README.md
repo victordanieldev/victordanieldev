@@ -122,6 +122,7 @@ Quero melhorar para desenvolver sites maiores, sites de vendas etc.
 ## Banco de dados
 
 <li> SQL , MYSQL </li>
+ <br clear="both">
 
 <img 
     align="left"
