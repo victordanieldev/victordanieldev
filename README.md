@@ -77,7 +77,7 @@ Me chamo Victor Daniel, tenho 19 anos, sou estudante de Engenharia de Software n
 <Li>Banco de dados </Li>
 <Li>Engenheiro de software</Li>
 <Li>Back-end</Li>
-<Li>Fullstack</Li>
+<Li>Full-stack</Li>
     
 
 
